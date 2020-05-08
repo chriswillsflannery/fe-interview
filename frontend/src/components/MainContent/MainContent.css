@@ -1,0 +1,7 @@
+.MainContent {
+  background-color: grey;
+  width: 100%;
+  height: 45rem;
+  margin-top: 10px;
+  display: flex;
+}
